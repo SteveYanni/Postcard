@@ -30,6 +30,7 @@ class ViewController: UIViewController {
         MessageLabel.hidden = false
         MessageLabel.text = EnterMessageTxt.text
         // Adding a comment to test commits
+        // Adding second comment
         MessageLabel.textColor = UIColor.redColor()
         
         EnterMessageTxt.text = ""
